@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**vladchatware/vladchatware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [vlad.chat](https://vlad.chat)
 
-Here are some ideas to get you started:
+[source](https://github.com/vladchatware/vlad.chat)
+[product page](https://shop.vlad.chat/l/chat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+v0.0.3
+
+- Added anonymous authentication through convex
+- Added trial limits
+- Added file upload (experimental)
+
+# [music.vlad.chat](https://music.vlad.chat)
+
+[source](https://github.com/vladchatware/music.vlad.chat)
+[product page](https://shop.vlad.chat/l/music)
+[instagram](https://www.instagram.com/music.vlad.chat)
+
+v0.0.4
+
+- Switch to vercel
+- Consolidate MCP
+- Refactor api endpoints instead of expressjs
+
+# Content engine
+
+[source](https://github.com/vladchatware/threads)
+[product page](https://shop.vlad.chat/l/threads)
+
+- Added multiple shot options: [two-shot, closeup, middle]
+- Added background sound
+- Added outro video
+
+Development log on [x.com](https://x.com/vladchatware) or [threads](https://www.threads.com/@vladchatware)
