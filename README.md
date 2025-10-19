@@ -20,10 +20,6 @@ v0.1.0
 [product page](https://shop.vlad.chat/l/music)
 [instagram](https://www.instagram.com/music.vlad.chat)
 
-| Video 1 | Video 2|
-| --- | --- |
-| ![Video](https://github.com/user-attachments/assets/979de0c9-5b2d-4c37-827b-6de9c67552c4) | ![Video](https://github.com/user-attachments/assets/f43ad15d-09e0-49b2-90aa-2982313f5739) |
-
 v0.0.5
 
 - Soundcloud OAuth for convex auth provider
