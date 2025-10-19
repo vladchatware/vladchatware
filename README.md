@@ -3,18 +3,18 @@
 [source](https://github.com/vladchatware/vlad.chat)
 [product page](https://shop.vlad.chat/l/chat)
 
-v0.0.3
+https://github.com/user-attachments/assets/622ed496-d3c7-4c30-9d7a-a4f256a8a9d6
 
-- Added anonymous authentication through convex
-- Added trial limits
-- Added custom Notion MCP server
-- Added file upload (experimental)
+v0.1.0
+
+- Stripe billing
+- Notion knowledge base connection
+- Notion page to markdown
+- System prompt update
 
 # [music.vlad.chat](https://music.vlad.chat)
 
-| Mobile View | Desktop View |
-| --- | --- |
-| <img width="642" height="1389" alt="IMG_5422" src="https://github.com/user-attachments/assets/28ddbf56-3530-45b0-af53-c36cc5e6507f" /> | <img width="1440" height="900" alt="Screenshot 2025-10-07 at 7 30 52 PM" src="https://github.com/user-attachments/assets/f184de68-5431-4ba9-9382-6ba58369429e" /> |
+[example reel](https://www.instagram.com/reel/DP5mg2VEWfb)
 
 [source](https://github.com/vladchatware/music.vlad.chat)
 [product page](https://shop.vlad.chat/l/music)
@@ -24,11 +24,11 @@ v0.0.3
 | --- | --- |
 | ![Video](https://github.com/user-attachments/assets/979de0c9-5b2d-4c37-827b-6de9c67552c4) | ![Video](https://github.com/user-attachments/assets/f43ad15d-09e0-49b2-90aa-2982313f5739) |
 
-v0.0.4
+v0.0.5
 
-- Switched to vercel
-- Rewrote MCP routes
-- Rewrote api endpoints instead of expressjs
+- Soundcloud OAuth for convex auth provider
+- Add audiolizer
+- MCP client action to play the music
 
 # Content engine
 
