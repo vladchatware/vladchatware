@@ -5,7 +5,7 @@
 
 https://github.com/user-attachments/assets/622ed496-d3c7-4c30-9d7a-a4f256a8a9d6
 
-v0.1.0
+## v0.1.0
 
 - Stripe billing
 - Notion knowledge base connection
@@ -20,13 +20,13 @@ v0.1.0
 [product page](https://shop.vlad.chat/l/music)
 [instagram](https://www.instagram.com/music.vlad.chat)
 
-v0.0.5
+## v0.0.5
 
 - Soundcloud OAuth for convex auth provider
 - Add audiolizer
 - MCP client action to play the music
 
-# Content engine
+# [media.vlad.chat](https://media.vlad.chat)
 
 [source](https://github.com/vladchatware/threads)
 [product page](https://shop.vlad.chat/l/threads)
@@ -38,7 +38,7 @@ v0.0.5
 | --- | --- |
 | ![Self-discipline is making the higher choice](https://github.com/user-attachments/assets/d6c952d8-3551-49ac-b285-6e735bce3774) | ![Self-Realization as Service](https://github.com/user-attachments/assets/36b7e2b5-cff5-46be-9ba8-5f09fcf973fb) |
 
-## Changelog
+## v0.0.3
 
 - Added multiple shot options: [two-shot, closeup, middle]
 - Added background sound
