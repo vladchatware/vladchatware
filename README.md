@@ -1,9 +1,10 @@
-# [vlad.chat](https://vlad.chat)
+| [vlad.chat](https://vlad.chat) | [music.vlad.chat](https://music.vlad.chat) | [media.vlad.chat](https://media.vlad.chat) |
+| --- | --- | --- |
+| ![Video](https://github.com/user-attachments/assets/622ed496-d3c7-4c30-9d7a-a4f256a8a9d6) | [example reel](https://www.instagram.com/reel/DP5mg2VEWfb) | ![Self-discipline is making the higher choice](https://github.com/user-attachments/assets/d6c952d8-3551-49ac-b285-6e735bce3774) |
+| [source](https://github.com/vladchatware/vlad.chat) | [source](https://github.com/vladchatware/music.vlad.chat) | [source](https://github.com/vladchatware/media.vlad.chat) |
+| [product page](https://shop.vlad.chat/l/chat) | [product page](https://shop.vlad.chat/l/music) | [product page](https://shop.vlad.chat/l/threads) |
 
-[source](https://github.com/vladchatware/vlad.chat)
-[product page](https://shop.vlad.chat/l/chat)
 
-https://github.com/user-attachments/assets/622ed496-d3c7-4c30-9d7a-a4f256a8a9d6
 
 ## v0.1.0
 
