@@ -1,6 +1,6 @@
 ### Skills
 
-[notion](https://github.com/vladchatware/notion-skill) | [dj](https://github.com/vladchatware/soundcloud-dj-skill) | [media](https://github.com/vladchatware/media-vlad-chat-skill) | [code quality](https://github.com/vladchatware/code-quality-simplicity)
+[notion](https://github.com/vladchatware/notion-skill) | [soundcloud](https://github.com/vladchatware/soundcloud-dj-skill) | [media](https://github.com/vladchatware/media-vlad-chat-skill) | [language learning](https://github.com/vladchatware/moshimoshi-skill) | [code quality](https://github.com/vladchatware/code-quality-simplicity)
 
 ### Projects
 
